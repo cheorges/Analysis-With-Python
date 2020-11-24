@@ -1,4 +1,5 @@
-# Analysis-With-Python | FFHS
+# Analysis-With-Python
+> FFHS, AnPy, Semesterarbeiten und Unterrichtsnotizen
 ## Project Jupyter
 For more information https://jupyter.org/install
 ### Setup
